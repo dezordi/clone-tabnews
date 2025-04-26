@@ -33,3 +33,9 @@ Instalando as dependências indicadas no `package-lock.json`
 ```bash
 npm ci
 ```
+
+Checando a versão das dependencias (devem ser as mesmas presentes no campo `dependencies` do arquivo `package.json`)
+
+```bash
+npm ls
+```
